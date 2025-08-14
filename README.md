@@ -210,9 +210,9 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 ## 🌟 Support et Communauté
 
 - **⭐ Star** ce repo si vous trouvez le projet intéressant !
-- **🐛 Issues** : [Signaler un bug](https://github.com/username/neuralspace/issues)
-- **💬 Discussions** : [Forum communauté](https://github.com/username/neuralspace/discussions)
-- **📧 Contact** : [email@example.com](mailto:email@example.com)
+- **🐛 Issues** : [Signaler un bug](https://github.com/goddivor/neuralspace/issues)
+- **💬 Discussions** : [Forum communauté](https://github.com/goddivor/neuralspace/discussions)
+- **📧 Contact** : [email@example.com](mailto:goddivor7@gmail.com)
 
 ## 🚀 Démonstration
 
