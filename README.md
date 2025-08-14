@@ -1,4 +1,4 @@
-# 🧠 NeuralSpace
+# <img src="public/icon_animate.svg" alt="NeuralSpace Logo" width="32" height="32"> NeuralSpace
 
 **Plateforme universelle de visualisation 3D intelligente propulsée par l'IA**
 
@@ -212,7 +212,7 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 - **⭐ Star** ce repo si vous trouvez le projet intéressant !
 - **🐛 Issues** : [Signaler un bug](https://github.com/goddivor/neuralspace/issues)
 - **💬 Discussions** : [Forum communauté](https://github.com/goddivor/neuralspace/discussions)
-- **📧 Contact** : [email@example.com](mailto:goddivor7@gmail.com)
+- **📧 Contact** : [goddivor7@gmail.com](mailto:goddivor7@gmail.com)
 
 ## 🚀 Démonstration
 
