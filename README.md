@@ -1,6 +1,8 @@
-# <img src="public/icon_animate.svg" alt="NeuralSpace Logo" width="32" height="32"> NeuralSpace
-
-**Plateforme universelle de visualisation 3D intelligente propulsée par l'IA**
+<div align="center">
+  <img src="public/icon_animate.svg" alt="NeuralSpace Logo" width="150" height="150">
+  <h1>NeuralSpace</h1>
+  <p><strong>Plateforme universelle de visualisation 3D intelligente propulsée par l'IA</strong></p>
+</div>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18.3.1-blue.svg)
